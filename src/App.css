@@ -1,0 +1,78 @@
+body {
+  background-color: #b2aba9;
+}
+.container {
+  background-color: #f2f2f2;
+  justify-content: center;
+  width: 50%;
+  margin-left: 26%;
+  margin-top: 5%;
+  text-align: center;
+
+}
+.header {
+  width: 100%;
+  background-color: rgb(7,2,71);
+  height: 50px;
+  font-size: 25px;
+  font-weight: bold;
+  padding-top: 6px ;
+  color: white;
+}
+.list-heading {
+  font-size: 20px;
+  font-weight: bold;
+}
+.listdata {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.btn1-position {
+  width: 80px;
+  font-weight: bold;
+  background-color: rgb(7,2,71);
+  color: white;
+  padding: 9px 9px;
+  margin: 9px 9px;
+  border: 2px;
+  border-radius: 5px;
+  cursor: pointer; 
+}
+.btn2-position {
+  width: 90px;
+  font-weight: bold;
+  background-color: rgb(7,2,71);
+  color: white;
+  padding: 9px 9px;
+  margin: 9px 9px;
+  border: 2px;
+  border-radius: 5px;
+  cursor: pointer; 
+}
+.btn3-position {
+  width: 110px;
+  font-weight: bold;
+  background-color: rgb(7,2,71);
+  color: white;
+  padding: 9px 9px;
+  margin: 9px 9px;
+  border: 2px;
+  border-radius: 5px;
+  cursor: pointer; 
+}
+
+input[type=text] {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[placeholder] {
+  font-size: 16px;
+  font-weight: bold;
+}
+
